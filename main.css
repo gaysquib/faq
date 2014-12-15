@@ -70,12 +70,13 @@ ul {
   font-size: 12px;
   height: 225px;
   padding: 8px;
+  margin: 3px;
   background-color: #e5e5e5;
 }
 
 .wrapper {
   width: 100%;
-  margin: 0;
+  margin: 2px;
   padding: 0;
   background-color: transparent;
 }
